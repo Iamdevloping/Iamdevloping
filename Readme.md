@@ -1,4 +1,4 @@
-# Ahmed — Software Engineer 💻
+# Amarnath — Software Engineer 💻
 
 Hi, I’m **Amarnath**, a passionate software engineer who loves solving complex problems with clean, efficient code. I specialize in building scalable applications, integrating cutting-edge technologies, and continuously improving my craft.
 
